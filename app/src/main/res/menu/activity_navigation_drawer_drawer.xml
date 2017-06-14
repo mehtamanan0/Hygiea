@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_hygiea"
+            android:title="Hygiea" />
+        <item
+            android:id="@+id/nav_locate"
+            android:title="Locate" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Profile" />
+
+    </group>
+
+    <item android:title="More">
+        <menu>
+            <item
+                android:id="@+id/nav_signout"
+                android:title="Sign Out" />
+        </menu>
+    </item>
+
+</menu>

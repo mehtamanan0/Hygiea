@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589630908812",
+    "project_id": "firebase-hygiea"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589630908812:android:f73ac07f5a9acabf",
+        "android_client_info": {
+          "package_name": "com.example.manan.hygiea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589630908812-stnj1uti7p03o0q02i1gkf89qknh5qvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manan.hygiea",
+            "certificate_hash": "505af99dcc2d810d61105ba445b6edee537058e7"
+          }
+        },
+        {
+          "client_id": "589630908812-ns540r3kqqlin9nic5fqu1rk214n3c9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZGfftMdKXxvpRMHlV0k4XzNvwZs1jRQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
